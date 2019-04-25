@@ -1,0 +1,794 @@
+Waiting for transform chain to become available between odom and nerf_cannon 
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.00507487: max = 0.047
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.001 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100333 Max Delay: 0
+Node: unknown_publisher 61.3208 Hz, Average Delay: -0.0224615 Max Delay: 0.001
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.00981173: max = 0.05
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.001 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.1006 Max Delay: 0
+Node: unknown_publisher 55.5556 Hz, Average Delay: -0.01944 Max Delay: 0.001
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0121327: max = 0.05
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.001 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100571 Max Delay: 0
+Node: unknown_publisher 53.8462 Hz, Average Delay: -0.0194571 Max Delay: 0.001
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0146059: max = 0.05
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.001 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100556 Max Delay: 0
+Node: unknown_publisher 52.9412 Hz, Average Delay: -0.0194222 Max Delay: 0.001
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0169117: max = 0.05
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000863636 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100455 Max Delay: 0
+Node: unknown_publisher 52.381 Hz, Average Delay: -0.0194909 Max Delay: 0.001
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0184238: max = 0.05
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000851852 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100385 Max Delay: 0
+Node: unknown_publisher 51.5385 Hz, Average Delay: -0.0188806 Max Delay: 0.001
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0191087: max = 0.05
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000870968 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100313 Max Delay: 0
+Node: unknown_publisher 51.4851 Hz, Average Delay: -0.0199744 Max Delay: 0.001
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0202617: max = 0.05
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000828571 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100278 Max Delay: 0
+Node: unknown_publisher 51.312 Hz, Average Delay: -0.0199545 Max Delay: 0.001
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0218676: max = 0.05
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000846154 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.10025 Max Delay: 0
+Node: unknown_publisher 51.1749 Hz, Average Delay: -0.0198776 Max Delay: 0.001
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0222172: max = 0.05
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000840909 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100273 Max Delay: 0
+Node: unknown_publisher 51.1628 Hz, Average Delay: -0.0194727 Max Delay: 0.001
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0229314: max = 0.05
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000833333 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.10025 Max Delay: 0
+Node: unknown_publisher 51.0638 Hz, Average Delay: -0.0194667 Max Delay: 0.001
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0235319: max = 0.05
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000826923 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100231 Max Delay: 0
+Node: unknown_publisher 50.9804 Hz, Average Delay: -0.0194615 Max Delay: 0.001
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0240413: max = 0.05
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000842105 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100214 Max Delay: 0
+Node: unknown_publisher 50.7143 Hz, Average Delay: -0.0191549 Max Delay: 0.001
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0246905: max = 0.05
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000819672 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100194 Max Delay: 0
+Node: unknown_publisher 50.7294 Hz, Average Delay: -0.0197255 Max Delay: 0.001
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0244821: max = 0.05
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000830769 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100182 Max Delay: 0
+Node: unknown_publisher 50.6841 Hz, Average Delay: -0.0196994 Max Delay: 0.001
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0243777: max = 0.05
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.00084058 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100171 Max Delay: 0
+Node: unknown_publisher 50.6292 Hz, Average Delay: -0.0196763 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0246241: max = 0.05
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000851351 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100162 Max Delay: 0
+Node: unknown_publisher 50.6849 Hz, Average Delay: -0.019427 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0248298: max = 0.05
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000858974 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100154 Max Delay: 0
+Node: unknown_publisher 50.6494 Hz, Average Delay: -0.0194154 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0247581: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000865854 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100146 Max Delay: 0
+Node: unknown_publisher 50.6173 Hz, Average Delay: -0.0194098 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0247416: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000872093 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.10014 Max Delay: 0
+Node: unknown_publisher 50.5882 Hz, Average Delay: -0.0194047 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0250293: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000879121 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100156 Max Delay: 0
+Node: unknown_publisher 50.4444 Hz, Average Delay: -0.0192291 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0242761: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000884211 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100125 Max Delay: 0
+Node: unknown_publisher 50.4344 Hz, Average Delay: -0.0195714 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0237951: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000878788 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.10012 Max Delay: 0
+Node: unknown_publisher 50.4168 Hz, Average Delay: -0.0195685 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.023723: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000864078 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100115 Max Delay: 0
+Node: unknown_publisher 50.4005 Hz, Average Delay: -0.0195698 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0239374: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000842593 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100111 Max Delay: 0
+Node: unknown_publisher 50.4673 Hz, Average Delay: -0.0194259 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0237167: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000848214 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100107 Max Delay: 0
+Node: unknown_publisher 50.4505 Hz, Average Delay: -0.0194179 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0236069: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000853448 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100103 Max Delay: 0
+Node: unknown_publisher 50.4348 Hz, Average Delay: -0.0194138 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0238127: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000858333 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.1001 Max Delay: 0
+Node: unknown_publisher 50.4202 Hz, Average Delay: -0.0194133 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0245731: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000856 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100097 Max Delay: 0
+Node: unknown_publisher 50.3226 Hz, Average Delay: -0.0192885 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0252707: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000860465 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100094 Max Delay: 0
+Node: unknown_publisher 50.3125 Hz, Average Delay: -0.0192857 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0250947: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000864662 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.10009 Max Delay: 0
+Node: unknown_publisher 50.2945 Hz, Average Delay: -0.0195285 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.025219: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000868613 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100087 Max Delay: 0
+Node: unknown_publisher 50.2859 Hz, Average Delay: -0.0195219 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0254135: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000866197 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100099 Max Delay: 0
+Node: unknown_publisher 50.3546 Hz, Average Delay: -0.0194085 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0248449: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000856164 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100096 Max Delay: 0
+Node: unknown_publisher 50.3448 Hz, Average Delay: -0.0194137 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0248562: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.00086 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100093 Max Delay: 0
+Node: unknown_publisher 50.3356 Hz, Average Delay: -0.0194133 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0250702: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000863636 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100091 Max Delay: 0
+Node: unknown_publisher 50.3268 Hz, Average Delay: -0.0194078 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0257938: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000867925 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100089 Max Delay: 0
+Node: unknown_publisher 50.2532 Hz, Average Delay: -0.0193023 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0258534: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000871166 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100086 Max Delay: 0
+Node: unknown_publisher 50.2469 Hz, Average Delay: -0.0193022 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0250435: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000862275 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100083 Max Delay: 0
+Node: unknown_publisher 50.2223 Hz, Average Delay: -0.0195024 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0249187: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000865497 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100081 Max Delay: 0
+Node: unknown_publisher 50.2171 Hz, Average Delay: -0.0194953 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0250067: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000863636 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.10008 Max Delay: 0
+Node: unknown_publisher 50.2857 Hz, Average Delay: -0.0194023 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0252618: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000866667 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100078 Max Delay: 0
+Node: unknown_publisher 50.2793 Hz, Average Delay: -0.0193978 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0251002: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.00086413 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100076 Max Delay: 0
+Node: unknown_publisher 50.2732 Hz, Average Delay: -0.0194 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0250804: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000867021 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100074 Max Delay: 0
+Node: unknown_publisher 50.2674 Hz, Average Delay: -0.0193957 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0256204: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000870466 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100073 Max Delay: 0
+Node: unknown_publisher 50.2083 Hz, Average Delay: -0.0193091 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.02629: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000873096 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100071 Max Delay: 0
+Node: unknown_publisher 50.2041 Hz, Average Delay: -0.0193069 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0261045: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000875622 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100069 Max Delay: 0
+Node: unknown_publisher 50.1696 Hz, Average Delay: -0.0194652 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0255587: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000873171 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100068 Max Delay: 0
+Node: unknown_publisher 50.1662 Hz, Average Delay: -0.0194639 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0256591: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.00087619 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100067 Max Delay: 0
+Node: unknown_publisher 50.2392 Hz, Average Delay: -0.0193848 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0259283: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000873832 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100065 Max Delay: 0
+Node: unknown_publisher 50.2347 Hz, Average Delay: -0.0193869 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0264126: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000876147 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100073 Max Delay: 0
+Node: unknown_publisher 50.2304 Hz, Average Delay: -0.0193853 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.026567: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000873874 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100072 Max Delay: 0
+Node: unknown_publisher 50.2262 Hz, Average Delay: -0.0193874 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0260676: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000876652 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100071 Max Delay: 0
+Node: unknown_publisher 50.177 Hz, Average Delay: -0.0193139 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0260332: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000878788 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.10007 Max Delay: 0
+Node: unknown_publisher 50.1739 Hz, Average Delay: -0.0193137 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0265341: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000880851 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100068 Max Delay: 0
+Node: unknown_publisher 50.1364 Hz, Average Delay: -0.019449 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0258362: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000878661 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100067 Max Delay: 0
+Node: unknown_publisher 50.1341 Hz, Average Delay: -0.0194498 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0256704: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000864754 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100066 Max Delay: 0
+Node: unknown_publisher 50.2058 Hz, Average Delay: -0.0193918 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.025458: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000858871 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100065 Max Delay: 0
+Node: unknown_publisher 50.2024 Hz, Average Delay: -0.0193952 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0260926: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000861111 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100056 Max Delay: 0
+Node: unknown_publisher 50.1992 Hz, Average Delay: -0.0193905 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0268475: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.000863281 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100055 Max Delay: 0
+Node: unknown_publisher 50.1961 Hz, Average Delay: -0.0193875 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
+
+
+
+RESULTS: for odom to nerf_cannon
+Chain is: odom -> base_footprint -> base_link -> nerf_cannon
+Net delay     avg = 0.0265543: max = 0.051
+
+Frames:
+Frame: base_footprint published by unknown_publisher Average Delay: 0.0008659 Max Delay: 0.001
+Frame: base_link published by unknown_publisher(static) Average Delay: 0 Max Delay: 0
+Frame: nerf_cannon published by unknown_publisher Average Delay: -0.100054 Max Delay: 0
+Node: unknown_publisher 50.1538 Hz, Average Delay: -0.0193236 Max Delay: 0.002
+Node: unknown_publisher(static) 1e+08 Hz, Average Delay: 0 Max Delay: 0
